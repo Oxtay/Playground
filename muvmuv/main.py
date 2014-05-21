@@ -7,7 +7,7 @@ import math
 
 import json as simplejson
 
-from elementtree.ElementTree import *
+from xml.etree.ElementTree import *
 
 from google.appengine.api import urlfetch
 from google.appengine.api import users
